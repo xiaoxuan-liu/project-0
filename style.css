@@ -1,0 +1,33 @@
+/* 1. 修改页面背景颜色  */
+/* Requirement: Change at least two visible things with CSS  */
+
+/* 1. Modifying the page background and default font */
+body {
+    background-color: #f4f7f6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    padding: 40px;
+}
+
+/* 2. Styling the header and alignment */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#action-area {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#alertButton {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
